@@ -260,13 +260,13 @@ Renforcer prioritairement la disponibilité opérationnelle sur les créneaux le
 Accentuer la visibilité de **Latte** et **Cappuccino**, qui contribuent fortement au chiffre d’affaires.
 
 ### 3. Utiliser Americano with Milk comme produit d’appel
-Sa forte contribution en volume en fait un bon candidat pour des logiques de mise en avant ou de cross-sell.
+Sa forte contribution en volume en fait un bon candidat pour des logiques de mise en avant.
 
 ### 4. Stimuler les périodes les plus faibles
-Tester des animations commerciales ou mises en avant ciblées sur les créneaux et jours moins performants, notamment le week-end.
+Tester une offre ciblée sur les créneaux faibles, avec comparaison avant/après sur transactions et CA.
 
 ### 5. Réévaluer le rôle d’Espresso dans le mix produit
-Espresso contribue faiblement au chiffre d’affaires global ; il peut être utile de revoir son positionnement, sa mise en avant ou son rôle dans l’offre.
+Espresso contribue faiblement au chiffre d’affaires global ; Vérifier avec des données de marge avant décision, car le CA seul ne suffit pas à juger sa rentabilité.
 
 ---
 
