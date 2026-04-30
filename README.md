@@ -28,6 +28,25 @@ Le projet a été structuré en plusieurs étapes :
 
 ---
 
+## Résultat en 30 secondes
+
+J’ai construit une analyse Sales Analytics d’un coffee shop avec BigQuery et Looker Studio.
+
+- Données : 3 547 transactions, mars 2024 à mars 2025
+- Objectif : identifier les drivers du chiffre d’affaires
+- Stack : BigQuery SQL, Looker Studio, GitHub
+- Résultats clés :
+  - CA total : 112 245,58
+  - Ticket moyen : 31,65
+  - Pic de CA : 10h
+  - Produits moteurs : Latte, Americano with Milk, Cappuccino
+- Recommandations :
+  - renforcer le staffing sur les pics horaires
+  - mettre en avant les produits à forte contribution
+  - stimuler les périodes faibles, notamment le week-end
+
+---
+
 ## Résumé exécutif
 
 L’analyse met en évidence plusieurs enseignements clés :
