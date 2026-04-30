@@ -11,7 +11,7 @@ Il s’agit d’un dataset transactionnel simple, adapté à un projet de **Sale
 - le montant de la transaction,
 - le moment de la journée,
 - le jour de semaine,
-- le mois.
+- le mois
 
 ---
 
